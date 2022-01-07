@@ -1,0 +1,1 @@
+TradingPlatform.MessageClient.exe 192.168.1.155 11005 clear "Anthony_Testkey"

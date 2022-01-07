@@ -1,0 +1,10 @@
+{
+  "data_path": "C:\\Users\\Jeffery\\Desktop\\signalPic\\Signal",
+  "checking_interval": 10,
+  "rows": 3,
+  "cols": 3,
+  "running_time": [
+    ["090100", "130000"],
+    ["133000", "150000"]
+  ]
+}
